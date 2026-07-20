@@ -176,7 +176,7 @@ The PCB has been completed, verified using KiCad's 3D Viewer, and manufacturing 
 # PCB Top Layer
 
 <p align="center">
-<img src="images/top%20layer%20final.png" width="750">
+<img src="images/top_layer_final.png" width="750">
 </p>
 
 ---
