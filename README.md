@@ -168,7 +168,7 @@ The PCB has been completed, verified using KiCad's 3D Viewer, and manufacturing 
 # 3D PCB View
 
 <p align="center">
-<img src="images/3D_Front_View.png" width="750">
+<img src="images/3dview%20final.png" width="750">
 </p>
 
 ---
@@ -176,7 +176,7 @@ The PCB has been completed, verified using KiCad's 3D Viewer, and manufacturing 
 # PCB Top Layer
 
 <p align="center">
-<img src="images/Pcb_TopLayer.png" width="750">
+<img src="images/top%20layer%20final.png" width="750">
 </p>
 
 ---
@@ -184,17 +184,15 @@ The PCB has been completed, verified using KiCad's 3D Viewer, and manufacturing 
 # PCB Bottom Layer
 
 <p align="center">
-<img src="images/Pcb_BottomLayer.png" width="750">
+<img src="images/bottom%20layer%20final.png" width="750">
 </p>
-
 ---
 
 # Complete Schematic
 
 <p align="center">
-<img src="images/Schematic_Diagram.png" width="750">
+<img src="images/schematic%20final.png" width="750">
 </p>
-
 ---
 
 # Hardware Components Used
