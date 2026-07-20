@@ -168,7 +168,7 @@ The PCB has been completed, verified using KiCad's 3D Viewer, and manufacturing 
 # 3D PCB View
 
 <p align="center">
-<img src="images/3dview%20final.png" width="750">
+<img src="./images/3dview%20final.png" width="750">
 </p>
 
 ---
